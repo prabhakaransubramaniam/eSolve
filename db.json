@@ -1,1 +1,232 @@
 
+{
+  "User": [{
+      "Name": "Ada",
+      "Surename": "Elvis",
+      "Sign on Name": "AdminA",
+      "Password": "xxxx",
+      "User Profile": "Admin",
+      "Remarks": "",
+      "Status": "Active",
+      "Date time": "3.11.2019:14:09"
+    },
+    {
+      "Name": "Peter",
+      "Surename": "Oliva",
+      "Sign on Name": "SalesS",
+      "Password": "xxxx",
+      "User Profile": "Sales",
+      "Remarks": "",
+      "Status": "Active",
+      "Date time": "3.11.2019:14:09"
+    },
+    {
+      "Name": "Mark",
+      "Surename": "Jasmin",
+      "Sign on Name": "TailorJM",
+      "Password": "xxxx",
+      "User Profile": "Tailor",
+      "Remarks": "",
+      "Status": "Active",
+      "Date time": "3.11.2019:14:09"
+    },
+    {
+      "Name": "Justin",
+      "Surename": "Steve",
+      "Sign on Name": "TailorJS",
+      "Password": "xxxx",
+      "User Profile": "Tailor",
+      "Remarks": "",
+      "Status": "Active",
+      "Date time": "3.11.2019:14:09"
+    }
+  ],
+  "Customer": [{
+      "Customer No": "100001",
+      "Name": "Kaniyen",
+      "Sure Name": "Poongunran",
+      "Address Line": "Kasimedu salai",
+      "Address No": "23/46",
+      "City/Town": "Chennai",
+      "Country": "India",
+      "VIP": "N",
+      "Sex": "M",
+      "Mobile no": "123456789",
+      "E-mail": "Kaniyen.p@gmail.com",
+      "Passport/id no": "MA123456",
+      "DOB": "12.08.1980",
+      "Date time": "3.11.2019:13:09"
+    },
+    {
+      "Customer No": "100002",
+      "Name": "Sivan",
+      "Sure Name": "MaanikkaVaasagar",
+      "Address Line": "Ashok Nagar Salai ",
+      "Address No": "22/43",
+      "City/Town": "Chennai",
+      "Country": "India",
+      "VIP": "Y",
+      "Sex": "M",
+      "Mobile no": "987654321",
+      "E-mail": "maanikaa.s@gmail.com",
+      "Passport/id no": "MA187654",
+      "DOB": "10.09.1780",
+      "Date time": "3.11.2019:13:10"
+    },
+    {
+      "Customer No": "100003",
+      "Name": "Ramana",
+      "Sure Name": "Muruganar",
+      "Address Line": "kodambakkam Salai ",
+      "Address No": "21/42",
+      "City/Town": "Chennai",
+      "Country": "India",
+      "VIP": "Y",
+      "Sex": "M",
+      "Mobile no": "987875687",
+      "E-mail": "ramana.m@gmail.com",
+      "Passport/id no": "MA1546789",
+      "DOB": "30.12.1879",
+      "Date time": "3.11.2019:13:15"
+    }
+  ],
+  "Pricing": [{
+    "Id": "Cleaning",
+    "jobFur": [{
+        "Material": "Fur",
+        "Type of Work": "1 number -Cleaning Fur jacket collar",
+        "Cost": "98"
+      },
+      {
+        "Material": "Fur",
+        "Type of Work": "1 number -Cleaning Fur Jacket Deep cleaning",
+        "Cost": "48"
+      },
+      {
+        "Material": "Fur",
+        "Type of Work": "1 number -Cleaning Fur Jacket Gentle wash",
+        "Cost": "68"
+      }
+    ],
+
+    "jobLeather": [{
+        "Material": "Leather",
+        "Type of Work": "1 number -Cleaning Leather Coat Deep cleaning",
+        "Cost": "78"
+      },
+      {
+        "Material": "Leather",
+        "Type of Work": "1 number -Cleaning Leather Coat Polish",
+        "Cost": "38"
+      },
+      {
+        "Material": "Leather",
+        "Type of Work": "1 number -Cleaning Leather Coat Collar",
+        "Cost": "58"
+      }
+    ],
+
+    "Alt Description": "Alternate descrp text",
+    "Remark": "No remark",
+    "Discount": "0",
+    "Date time": "3.11.2019:14:24"
+  }],
+  "Workorder": [{
+      "Workorder no": "EB00001",
+      "Name": "Kaniyen",
+      "Sure Name": "Poongunran",
+      "Mobile No": "123456789",
+      "Address Line": "Kasimedu salai",
+      "Address No": "23/46",
+      "City/Town": "Chennai",
+      "Country": "India",
+      "Email": "Kaniyen.p@gmail.com",
+      "Date & time of entry": "3.11.2019:15:20",
+      "Product": "Jacket",
+      "Warrenty details": "Y",
+      "Nature of Complaint": "Cleaning required",
+      "Type/material": "Fur",
+      "Work Descp": "1 number -Cleaning Fur jacket collar",
+      "Pricing Cost": "98",
+      "Estimated Cost": "110",
+      "Estimated Delivery date & time": "6.11.2019:15:00",
+      "Tailors Name": "Tailor mark",
+      "Tailors Remark": "Cleaning done",
+      "Actual workdone": "1 number -Cleaning Fur jacket collar",
+      "Repair cost": "110",
+      "Date & time spend": "4.11.2019:01:15",
+      "Discount": "5",
+      "Total Payable": "105",
+      "Paid date time": "4.11.2019:18:15",
+      "Status": "Paid and closed"
+
+    },
+    {
+"Workorder no": "EB00002",
+  "Name": "Sivan",
+  "Sure Name": "MaanikkaVaasagar",
+  "Mobile No": "987654321",
+  "Address Line": "Ashok Nagar Salai ",
+  "Address No": "22/43",
+  "City/Town": "Chennai",
+  "Country": "India",
+  "Email": "maanikaa.s@gmail.com",
+  "Date & time of entry": "3.11.2019:15:35",
+  "Product": "Jacket",
+  "Warrenty details": "N",
+  "Nature of Complaint": "Cleaning required",
+  "Type/material": "Fur",
+  "Work Descp": "1 number -Cleaning Fur Jacket Gentle wash",
+  "Pricing Cost": "68",
+  "Estimated Cost": "80",
+  "Estimated Delivery date & time": "6.11.2019:9:00",
+  "Tailors detail": [{
+      "Tailors Name": "Tailor mark",
+      "Tailors Remark": "Cleaning done",
+      "Actual workdone": "1 number -Cleaning Fur Jacket Gentle wash",
+      "Date & time spend": "4.11.2019:0:50"
+    },
+    {
+      "Tailors Name": "Tailor Steve",
+      "Tailors Remark": "Cleaning done",
+      "Actual workdone": "1 number -Cleaning Fur Jacket Deep cleaning",
+      "Date & time spend": "5.11.2019:0:50"
+    }
+  ],
+  "Repair cost": "128",
+  "Discount": "10",
+  "Total Payable": "118",
+  "Paid date time": "5.11.2019:17:00",
+  "Status": "    Paid and closed"
+    },
+    {
+      "Workorder no": "EB00003",
+      "Name": "Ramana",
+      "Sure Name": "Muruganar",
+      "Mobile No": "987875687",
+      "Address Line": "kodambakkam Salai ",
+      "Address No": "21/42",
+      "City/Town": "Chennai",
+      "Country": "India",
+      "Email": "ramana.m@gmail.com",
+      "Date & time of entry": "3.11.2019:17:35",
+      "Product": "Coat",
+      "Warrenty details": "Y",
+      "Nature of Complaint": "Cleaning required",
+      "Type/material": "Leather",
+      "Work Descp": "1 number -Cleaning Leather Coat Polish",
+      "Pricing Cost": "38",
+      "Estimated Cost": "50",
+      "Estimated Delivery date & time": "7.11.2019:10:00",
+      "Tailors Name": "",
+      "Tailors Remark": "",
+      "Actual workdone": "",
+      "Repair cost": "",
+      "Date & time spend": "",
+      "Discount": "",
+      "Total Payable": "",
+      "Paid date time": "",
+      "Status": "Received for service"
+    }
+  ]
+}
