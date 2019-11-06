@@ -2,6 +2,7 @@
 {
   "users": [{
     "id":1,
+    "website": "hildegard.org",
       "Name": "Ada",
       "Surename": "Elvis",
       "Sign on Name": "AdminA",
@@ -13,6 +14,7 @@
     },
     {
       "id":2,
+      "website": "hildegard.org",
       "Name": "Peter",
       "Surename": "Oliva",
       "Sign on Name": "SalesS",
@@ -24,6 +26,7 @@
     },
     {
       "id":3,
+      "website": "hildegard.org",
       "Name": "Mark",
       "Surename": "Jasmin",
       "Sign on Name": "TailorJM",
@@ -35,6 +38,7 @@
     },
     {
       "id":4,
+      "website": "hildegard.org",
       "Name": "Justin",
       "Surename": "Steve",
       "Sign on Name": "TailorJS",
