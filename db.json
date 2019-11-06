@@ -1,53 +1,28 @@
 
 {
   "users": [{
-    "id":1,
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org",
-      "Name": "Ada",
-      "Surename": "Elvis",
-      "Sign on Name": "AdminA",
-      "Password": "xxxx",
-      "User Profile": "Admin",
-      "Remarks": "",
-      "Status": "Active",
-      "Date time": "3.11.2019:14:09"
-    },
-    {
-      "id":2,
-      "website": "hildegard.org",
-      "Name": "Peter",
-      "Surename": "Oliva",
-      "Sign on Name": "SalesS",
-      "Password": "xxxx",
-      "User Profile": "Sales",
-      "Remarks": "",
-      "Status": "Active",
-      "Date time": "3.11.2019:14:09"
-    },
-    {
-      "id":3,
-      "website": "hildegard.org",
-      "Name": "Mark",
-      "Surename": "Jasmin",
-      "Sign on Name": "TailorJM",
-      "Password": "xxxx",
-      "User Profile": "Tailor",
-      "Remarks": "",
-      "Status": "Active",
-      "Date time": "3.11.2019:14:09"
-    },
-    {
-      "id":4,
-      "website": "hildegard.org",
-      "Name": "Justin",
-      "Surename": "Steve",
-      "Sign on Name": "TailorJS",
-      "Password": "xxxx",
-      "User Profile": "Tailor",
-      "Remarks": "",
-      "Status": "Active",
-      "Date time": "3.11.2019:14:09"
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
     }
+  }
   ],
   "Customer": [{
     "id":100001,
