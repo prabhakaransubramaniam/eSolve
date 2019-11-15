@@ -1,14 +1,13 @@
 {
   "USERS": [
-   
     {
-      "id":1,
+      "id": 1,
       "Name": "Ada",
       "Surename": "Elvis",
-       "Email": "rajesht@esolveindia.com",
+      "Email": "rajesht@esolveindia.com",
       "SignonName": "SalesS",
       "avatar": "//www.gravatar.com/avatar/37ec37eff3ede5b8ab1343f3442e4835?s=200&r=pg&d=mm",
-    "Password": "$2a$10$A4lNWfRfO30JgvYqzf9gw.aYzQw11ozuDFsJTShLiLSyQIQj97GkC",
+      "Password": "$2a$10$A4lNWfRfO30JgvYqzf9gw.aYzQw11ozuDFsJTShLiLSyQIQj97GkC",
       "User Profile": "Admin",
       "Remarks": "",
       "Status": "Active",
@@ -21,7 +20,7 @@
       "Iban": "asdasd23"
     },
     {
-    "Email": "prabha123456@esolveindia.com",
+      "Email": "prabha123456@esolveindia.com",
       "Name": "prabha",
       "SureName": "s",
       "SignOnName": "prabhaesolve",
@@ -38,8 +37,9 @@
       "id": 2
     }
   ],
-  "Register": [{
-      "id": "100001",
+  "Register": [
+    {
+      "id": 1,
       "Name": "Kaniyen",
       "Sure Name": "Poongunran",
       "Address Line": "Kasimedu salai",
@@ -55,7 +55,7 @@
       "Date time": "3.11.2019:13:09"
     },
     {
-      "id": "100002",
+      "id": 2,
       "Name": "Sivan",
       "Sure Name": "MaanikkaVaasagar",
       "Address Line": "Ashok Nagar Salai ",
@@ -71,7 +71,7 @@
       "Date time": "3.11.2019:13:10"
     },
     {
-      "id": "100003",
+      "id": 3,
       "Name": "Ramana",
       "Sure Name": "Muruganar",
       "Address Line": "kodambakkam Salai ",
